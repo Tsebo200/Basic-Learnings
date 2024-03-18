@@ -1,0 +1,5 @@
+sudo chmod -R 777 (Path File) --> gives permission
+Mkdir - Create a new folder
+cd - Change Directory 
+rm - Delete Files/Folders
+ls - List files and folders in the current directory
